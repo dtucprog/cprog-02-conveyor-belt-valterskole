@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "cprog"
+assignment: "02-conveyor-belt"
+owner:
+  username: "valterskole"
+  id: 323939289
+  accepted_at: "2026-09-13T14:22:02Z"
+source:
+  owner: "dtucprog"
+  owner_id: 316954301
+  repo: "02-conveyor-belt"
+  branch: "main"
